@@ -38,7 +38,7 @@ public class CerrarSesionServlet extends HttpServlet {
             throws ServletException, IOException {
         processRequest(request, response);
     }
-
+//un comentario de prueba
     @Override
     public String getServletInfo() {
         return "Servlet para cerrar sesión y redirigir a la página principal";
