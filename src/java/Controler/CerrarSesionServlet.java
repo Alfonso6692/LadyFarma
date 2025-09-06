@@ -43,5 +43,6 @@ public class CerrarSesionServlet extends HttpServlet {
     public String getServletInfo() {
         return "Servlet para cerrar sesión y redirigir a la página principal";
     }
+    //otro comentario de prueba
 }
 
